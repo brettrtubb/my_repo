@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Baseball Pitcher Contract", "Baseball Pitcher Contract\Baseball Pitcher Contract.pyproj", "{20CC23B1-9889-4D20-A4B9-868821638250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CC23B1-9889-4D20-A4B9-868821638250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CC23B1-9889-4D20-A4B9-868821638250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7EDE7FF-5541-415B-86C4-E8B6DC11065F}
+	EndGlobalSection
+EndGlobal

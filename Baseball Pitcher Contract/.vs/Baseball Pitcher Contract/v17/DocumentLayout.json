@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brett\\source\\repos\\Baseball Pitcher Contract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CC23B1-9889-4D20-A4B9-868821638250}|Baseball Pitcher Contract\\Baseball Pitcher Contract.pyproj|C:\\Users\\brett\\source\\repos\\Baseball Pitcher Contract\\Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20CC23B1-9889-4D20-A4B9-868821638250}|Baseball Pitcher Contract\\Baseball Pitcher Contract.pyproj|solutionrelative:Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baseball_Pitcher_Contract.py",
+              "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Baseball Pitcher Contract\\Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py",
+              "RelativeDocumentMoniker": "Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py",
+              "ToolTip": "C:\\Users\\brett\\source\\repos\\Baseball Pitcher Contract\\Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py",
+              "RelativeToolTip": "Baseball Pitcher Contract\\Baseball_Pitcher_Contract.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-17T17:59:05.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

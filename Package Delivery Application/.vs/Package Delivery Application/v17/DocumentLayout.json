@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brett\\source\\repos\\Package Delivery Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0531DA52-EE9A-4961-951F-55F0763F9E16}|Package Delivery Application\\Package Delivery Application.pyproj|C:\\Users\\brett\\source\\repos\\Package Delivery Application\\Package Delivery Application\\Package_Delivery_Application.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0531DA52-EE9A-4961-951F-55F0763F9E16}|Package Delivery Application\\Package Delivery Application.pyproj|solutionrelative:Package Delivery Application\\Package_Delivery_Application.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package_Delivery_Application.py",
+              "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Package Delivery Application\\Package Delivery Application\\Package_Delivery_Application.py",
+              "RelativeDocumentMoniker": "Package Delivery Application\\Package_Delivery_Application.py",
+              "ToolTip": "C:\\Users\\brett\\source\\repos\\Package Delivery Application\\Package Delivery Application\\Package_Delivery_Application.py*",
+              "RelativeToolTip": "Package Delivery Application\\Package_Delivery_Application.py*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-17T17:36:01.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
